@@ -3,7 +3,7 @@
 ## Integrantes
 | Nombre | Carnet |
 |---|---|
-| Melvin Lizandro Castro Sorto (representante) | SMSS018725 |
+| Melvin Lizandro Castro Sorto | SMSS018725 |
 | Luis Jeovanny Majano Rivera | SMSS025725 |
 | Steven Moises Medrano Arbaiza | SMSS025425 |
 | William Edgardo Vasquez Lopez | SMSS020525 |
