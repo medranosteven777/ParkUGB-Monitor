@@ -16,7 +16,7 @@ El sistema:
 - Muestra el estado de cada espacio (libre, ocupado o reservado para docentes) por zona.
 - Calcula el porcentaje de ocupación de cada zona y del parqueo completo, actualizado cada 2 segundos.
 - Alerta a los vigilantes cuando el parqueo se llena y recomienda una zona de espera.
-- Reserva espacios para docentes (la asignación del espacio más cercano al aula llegará en la Entrega 2).
+- Reserva espacios para docentes (la asignación del espacio más cercano al aula estará en la Entrega 2).
 
 En esta primera etapa los datos de ocupación son simulados.
 
